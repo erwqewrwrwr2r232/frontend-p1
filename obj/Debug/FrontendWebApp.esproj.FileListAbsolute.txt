@@ -1,0 +1,2 @@
+C:\Users\sas505\source\repos\WebApplication2\FrontendWebApp\obj\Debug\FrontendWebApp.esproj.SuggestedBindingRedirects.cache
+C:\Users\sas505\source\repos\WebApplication2\FrontendWebApp\obj\Debug\FrontendWebApp.esproj.CoreCompileInputs.cache
